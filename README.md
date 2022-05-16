@@ -1,10 +1,10 @@
-## First Impressions (a pitches app)
+## SOul Inspo (an interactive blog)
 
 ### Author
 - Vanessa M Azenwa Shiundu `https://github.com/NessaAz`
 
 ## Technologies used
-- Python- Flask
+- Python - Flask
 - Git
 - GitHub
 
@@ -16,7 +16,7 @@
 ### Setup Instructions and Installation
 - In your preferred location in your file system, create a working directory
 - Inside it, create a virtual environment and activate it
-- Launch your terminal and paste: `https://github.com/NessaAz/soul-inspo-flaskIP4`
+- Launch your terminal and paste: `git clone https://github.com/NessaAz/soul-inspo-flaskIP4`
 - Open the project with your preferred IDE and run the following command in the terminal: `pip install -r requirements.txt`
 
 
