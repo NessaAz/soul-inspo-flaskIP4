@@ -1,11 +1,14 @@
+import os
+
 class Config:
     pass
 
 class DevConfig:
-    pass
+     DEBUG = True
 
 class ProdConfig:
-    DEBUG = True
+    pass
+   
     
 config_options = {
 'development':DevConfig,
